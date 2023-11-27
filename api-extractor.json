@@ -1,0 +1,5 @@
+{
+  "extends": "../../api-extractor.json",
+  "mainEntryPointFilePath": "/Users/aaron/Documents/jest/packages/jest-transform/build/index.d.ts",
+  "projectFolder": "/Users/aaron/Documents/jest/packages/jest-transform"
+}
